@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Documents/DL/sis1-1/mlruns/811686484252021530/models/m-1be1bce0afc84d82b581c53003992ccc/artifacts
+creation_timestamp: 1758820039578
+experiment_id: '811686484252021530'
+last_updated_timestamp: 1758820043742
+model_id: m-1be1bce0afc84d82b581c53003992ccc
+model_type: null
+name: best_estimator
+source_run_id: 7fd22cd4ed6846d2a20b1bbfd53c3182
+status: 2
+status_message: null

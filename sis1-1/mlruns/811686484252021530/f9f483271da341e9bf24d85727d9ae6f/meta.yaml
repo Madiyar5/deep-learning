@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Documents/DL/sis1-1/mlruns/811686484252021530/f9f483271da341e9bf24d85727d9ae6f/artifacts
+end_time: 1758818941473
+entry_point_name: ''
+experiment_id: '811686484252021530'
+lifecycle_stage: active
+run_id: f9f483271da341e9bf24d85727d9ae6f
+run_name: placid-hound-682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758818932325
+status: 3
+tags: []
+user_id: modik

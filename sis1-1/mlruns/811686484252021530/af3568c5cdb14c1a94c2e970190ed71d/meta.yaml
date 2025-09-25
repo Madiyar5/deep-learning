@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Documents/DL/sis1-1/mlruns/811686484252021530/af3568c5cdb14c1a94c2e970190ed71d/artifacts
+end_time: 1758818971469
+entry_point_name: ''
+experiment_id: '811686484252021530'
+lifecycle_stage: active
+run_id: af3568c5cdb14c1a94c2e970190ed71d
+run_name: sneaky-stork-936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758818946676
+status: 3
+tags: []
+user_id: modik

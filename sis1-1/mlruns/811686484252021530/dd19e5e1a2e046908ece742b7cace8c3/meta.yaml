@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Documents/DL/sis1-1/mlruns/811686484252021530/dd19e5e1a2e046908ece742b7cace8c3/artifacts
+end_time: 1758818926737
+entry_point_name: ''
+experiment_id: '811686484252021530'
+lifecycle_stage: active
+run_id: dd19e5e1a2e046908ece742b7cace8c3
+run_name: resilient-sloth-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758818907391
+status: 3
+tags: []
+user_id: modik

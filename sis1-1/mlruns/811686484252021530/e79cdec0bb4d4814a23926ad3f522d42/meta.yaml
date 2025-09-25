@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Documents/DL/sis1-1/mlruns/811686484252021530/e79cdec0bb4d4814a23926ad3f522d42/artifacts
+end_time: 1758818971469
+entry_point_name: ''
+experiment_id: '811686484252021530'
+lifecycle_stage: active
+run_id: e79cdec0bb4d4814a23926ad3f522d42
+run_name: likeable-cub-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758818946676
+status: 3
+tags: []
+user_id: modik

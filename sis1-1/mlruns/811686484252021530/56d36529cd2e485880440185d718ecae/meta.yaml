@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Documents/DL/sis1-1/mlruns/811686484252021530/56d36529cd2e485880440185d718ecae/artifacts
+end_time: 1758820073130
+entry_point_name: ''
+experiment_id: '811686484252021530'
+lifecycle_stage: active
+run_id: 56d36529cd2e485880440185d718ecae
+run_name: serious-conch-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758820048954
+status: 3
+tags: []
+user_id: modik

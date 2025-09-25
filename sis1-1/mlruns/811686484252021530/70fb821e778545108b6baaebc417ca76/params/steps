@@ -1,0 +1,1 @@
+[('scaler', StandardScaler()), ('classifier', LogisticRegression(max_iter=10000, random_state=42))]

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Documents/DL/sis1-1/mlruns/811686484252021530/42f2af25d2c64374831b42c57a28008d/artifacts
+end_time: 1758818971469
+entry_point_name: ''
+experiment_id: '811686484252021530'
+lifecycle_stage: active
+run_id: 42f2af25d2c64374831b42c57a28008d
+run_name: rebellious-hound-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758818946676
+status: 3
+tags: []
+user_id: modik

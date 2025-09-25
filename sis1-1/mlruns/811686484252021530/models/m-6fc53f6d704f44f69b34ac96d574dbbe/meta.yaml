@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Documents/DL/sis1-1/mlruns/811686484252021530/models/m-6fc53f6d704f44f69b34ac96d574dbbe/artifacts
+creation_timestamp: 1758818927646
+experiment_id: '811686484252021530'
+last_updated_timestamp: 1758818932289
+model_id: m-6fc53f6d704f44f69b34ac96d574dbbe
+model_type: null
+name: knn_model
+source_run_id: dea646c303934edb8cb4b58fee6f7e2b
+status: 2
+status_message: null

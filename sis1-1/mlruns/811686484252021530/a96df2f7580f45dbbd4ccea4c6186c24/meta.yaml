@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Documents/DL/sis1-1/mlruns/811686484252021530/a96df2f7580f45dbbd4ccea4c6186c24/artifacts
+end_time: 1758820034647
+entry_point_name: ''
+experiment_id: '811686484252021530'
+lifecycle_stage: active
+run_id: a96df2f7580f45dbbd4ccea4c6186c24
+run_name: KNN-Tuning
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758820014517
+status: 3
+tags: []
+user_id: modik

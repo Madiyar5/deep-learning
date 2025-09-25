@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Documents/DL/sis1-1/mlruns/811686484252021530/7fd22cd4ed6846d2a20b1bbfd53c3182/artifacts
+end_time: 1758820048946
+entry_point_name: ''
+experiment_id: '811686484252021530'
+lifecycle_stage: active
+run_id: 7fd22cd4ed6846d2a20b1bbfd53c3182
+run_name: LogisticRegression-Tuning
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758820034655
+status: 3
+tags: []
+user_id: modik

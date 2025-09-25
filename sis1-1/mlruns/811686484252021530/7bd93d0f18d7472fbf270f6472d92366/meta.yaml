@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Documents/DL/sis1-1/mlruns/811686484252021530/7bd93d0f18d7472fbf270f6472d92366/artifacts
+end_time: 1758820073130
+entry_point_name: ''
+experiment_id: '811686484252021530'
+lifecycle_stage: active
+run_id: 7bd93d0f18d7472fbf270f6472d92366
+run_name: sincere-sponge-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758820048954
+status: 3
+tags: []
+user_id: modik
